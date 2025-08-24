@@ -1,6 +1,6 @@
 # 📊 Business Insights 360 – Power BI Dashboard Project
 
-![Dashboard Demo](https://github.com/Vishal-499/BI-360-Project/blob/main/Resources/BI_360_Dashboard.gif)
+![Dashboard Demo]([https://github.com/Vishal-499/BI-360-Project/blob/main/Resources/BI_360_Dashboard.gif](https://github.com/Vishal-499/BI-360-Project/blob/main/Report/Data%20Modelling.gif))
 
 ## 🏢 Company Background  
 AtliQ Hardware is a fast-growing global tech company specializing in computer accessories. To stay competitive and avoid past missteps—like launching stores based on intuition—they’ve begun integrating analytics into their decision-making process. This project simulates how a newly formed analytics team can deliver actionable insights across departments.
