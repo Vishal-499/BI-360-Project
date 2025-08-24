@@ -47,7 +47,7 @@ Build an executive-level Power BI dashboard that provides insights across Financ
 - Executive Summary  
 - Product Performance
 ## Data Model 
-![Data Modelling](https://github.com/user-attachments/assets/f804b588-96c5-42d8-814c-dce2c459d480)
+<img src="(https://github.com/Vishal-499/BI-360-Project/blob/main/Report/Data%20Modelling.gif)" width="800"/>
 
 
 ## 🚀 Outcome  
