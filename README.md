@@ -49,6 +49,24 @@ Build an executive-level Power BI dashboard that provides insights across Financ
 ## Data Model 
 <img src="https://github.com/Vishal-499/BI-360-Project/blob/main/Report/Data%20Modelling.gif" width="800" height = "400"/>
 
+## Home View
+<img src="https://github.com/Vishal-499/BI-360-Project/blob/main/Report/Home%20View.gif" width="800" height = "400"/>
+
+## Finance View
+<img src="https://github.com/Vishal-499/BI-360-Project/blob/main/Report/Finance%20View.gif" width="800" height = "400"/>
+
+## Sales View
+<img src="https://github.com/Vishal-499/BI-360-Project/blob/main/Report/Sales%20View.gif" width="800" height = "400"/>
+
+## Marketing View
+<img src="https://github.com/Vishal-499/BI-360-Project/blob/main/Report/Marketing%20View.gif" width="800" height = "400"/>
+
+## Supply Chain View
+<img src="https://github.com/Vishal-499/BI-360-Project/blob/main/Report/Supply%20Chain%20View.gif" width="800" height = "400"/>
+
+## Executive View
+<img src="https://github.com/Vishal-499/BI-360-Project/blob/main/Report/Executive%20View.gif" width="800" height = "400"/>
+
 
 ## 🚀 Outcome  
 This dashboard empowers stakeholders to make informed decisions and uncover the “why” behind performance trends. It demonstrates how analytics can transform intuition into strategy.
