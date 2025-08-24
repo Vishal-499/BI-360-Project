@@ -1,5 +1,6 @@
 # 📊 Business Insights 360 – Power BI Dashboard Project
 
+# Data Modelling
 ![Data Modelling](https://github.com/user-attachments/assets/b9b37eff-71be-42b2-9688-85a6ecda0501)
 
 
