@@ -1,9 +1,5 @@
 # 📊 Business Insights 360 – Power BI Dashboard Project
 
-## Data Modelling
-![Data Modelling](https://github.com/user-attachments/assets/b9b37eff-71be-42b2-9688-85a6ecda0501)
-
-
 ## 🏢 Company Background  
 AtliQ Hardware is a fast-growing global tech company specializing in computer accessories. To stay competitive and avoid past missteps—like launching stores based on intuition—they’ve begun integrating analytics into their decision-making process. This project simulates how a newly formed analytics team can deliver actionable insights across departments.
 
@@ -50,6 +46,9 @@ Build an executive-level Power BI dashboard that provides insights across Financ
 - Supply Chain  
 - Executive Summary  
 - Product Performance
+## Data Model 
+![Data Modelling](https://github.com/user-attachments/assets/f804b588-96c5-42d8-814c-dce2c459d480)
+
 
 ## 🚀 Outcome  
 This dashboard empowers stakeholders to make informed decisions and uncover the “why” behind performance trends. It demonstrates how analytics can transform intuition into strategy.
